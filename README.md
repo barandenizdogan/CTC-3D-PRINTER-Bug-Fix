@@ -1,4 +1,4 @@
-<p align="center"><img src="/workspaces/CTC-3D-PRINTER-Bug-Fix/docs/Görüntü 18.12.2022 22.26.jpg" /></p>
+![alt text](docs/Go%CC%88ru%CC%88ntu%CC%88%2018.12.2022%2022.26.jpg)
 
 <h1 align="center">Marlin 3D Printer Firmware Bug Fixes</h1>
 
